@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Siwen Zhou"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral Research at Colorado State University, expert in Economics and Policy of Food and Health"
+  bio              : "Postdoctoral Fellow at Colorado State University, expert in Economics and Policy of Food and Health"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "https://github.com/Siwen0625"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -73,7 +73,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following a list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
