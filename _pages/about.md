@@ -8,9 +8,8 @@ redirect_from:
 ---
 About
 ======
-I am currently working as a postdoctoral fellow in the [Department of Agricultural and Resource Economics]([https://pages.github.com/](https://agsci.colostate.edu/dare/)) at Colorado State University. My research covers topics in applied microeconomics, agricultural/food economics, policy of food and health, labor economics, regional economics, and development economics.
+I am currently working as a postdoctoral fellow in the [Department of Agricultural and Resource Economics]([https://pages.github.com/](https://agsci.colostate.edu/dare/)) at Colorado State University. My research focuses on applied microeconomics, with an emphasis on agricultural and food economics, food and health policy, labor economics, regional economics, and development economics.
 
-My primary research focuses on the determinants and consequences of health disparities and social inequality among US immigrants relative to their native counterparts.  The overarching theme uniting all her research is to improve the well-being of vulnerable groups through evidence-based analysis of policy impacts on those groups.
+My research focuses on understanding the drivers and consequences of household food insecurity (FI), particularly among vulnerable and underrepresented populations. I examine how economic shocks, social safety nets, and household decision-making influence food security outcomes, as well as how FI may have long-term impacts on the health and well-being of at-risk households. Using applied econometrics and policy analysis, I aim to generate insights that inform evidence-based policies to enhance food and nutrition security.
 
-I earned my Ph.D. in Agricultural and Resource Economics from Colorado State University, my M.S. in Labor Economics from Shaanxi Normal University and B.A. in Public Management at Henan University of Economics and Law. 
-
+I hold a Ph.D. in Agricultural and Resource Economics from Colorado State University, an M.S. in Labor Economics from Shaanxi Normal University, and a B.A. in Public Management from Henan University of Economics and Law.
