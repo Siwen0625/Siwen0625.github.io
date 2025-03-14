@@ -8,7 +8,7 @@ redirect_from:
 ---
 About
 ======
-I am currently working as a postdoctoral fellow in the [Department of Agricultural and Resource Economics]([https://pages.github.com/](https://agsci.colostate.edu/dare/)) at Colorado State University. My research focuses on applied microeconomics, with an emphasis on agricultural and food economics, food and health policy, labor economics, regional economics, and development economics.
+I am currently working as a postdoctoral fellow in the [Department of Agricultural and Resource Economics]([https://pages.github.com/](https://agsci.colostate.edu/dare/)) at Colorado State University. My research topics cover applied microeconomics, agricultural and food economics, food and health policy, labor, regional, and development economics.
 
 My research focuses on understanding the drivers and consequences of household food insecurity (FI), particularly among vulnerable and underrepresented populations. I examine how economic shocks, social safety nets, and household decision-making influence food security outcomes, as well as how FI may have long-term impacts on the health and well-being of at-risk households. Using applied econometrics and policy analysis, I aim to generate insights that inform evidence-based policies to enhance food and nutrition security.
 
