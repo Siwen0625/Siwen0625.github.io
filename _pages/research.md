@@ -4,13 +4,27 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research/
+  - /research.html
 ---
 
 {% include base_path %}
 
-Education
+Dissertation
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Chapter 1
+------
+Abstract:
+
+Chapter 2
+------
+Abstract
+
+Chapter 3
+------
+Abstract
+
+
+Other Projects
+======
+Postdoc project
