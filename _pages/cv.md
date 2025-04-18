@@ -11,4 +11,4 @@ redirect_from:
 
 Education
 ======
-/files/CV_siwen.pdf
+files/CV_siwen.pdf
