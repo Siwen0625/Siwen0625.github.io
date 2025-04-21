@@ -9,6 +9,10 @@ redirect_from:
 
 Teaching philosophy
 ======
+*“A teacher is one who transmits knowledge, imparts learning, and resolves doubts.”*
+This old Chinese saying beautifully encapsulates my teaching philosophy. I believe teaching is more than just delivering information — it’s about guiding students in their learning, equipping them with tools to critically engage with the world, and supporting them as they explore new ideas. I’ve developed my teaching experience through leading classes, working as a teaching assistant, adapting to online teaching, and mentoring students.
+
+
 
 Instructor
 ======
