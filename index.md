@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "About Me"
+title: "Welcome"
 author_profile: true
 ---
 
