@@ -21,7 +21,7 @@ repository               : "Siwen0625/Siwen0625.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/sz.jpeg"
+  avatar           : "images/sz.jpeg"
   name             : "Siwen Zhou"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Fellow at Colorado State University, expert in Applied Economics and Policy of Food and Health"
