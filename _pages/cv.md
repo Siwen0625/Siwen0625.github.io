@@ -3,12 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/CV.siwen.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-Education
-======
-files/CV_siwen.pdf
+
