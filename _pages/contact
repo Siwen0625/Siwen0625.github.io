@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: single
 title: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
+
 
 Address: Department of Agricultural and Resource Economics, Colorado State University, Nutrien Building, Room # xx, Fort Collins, Colorado 80521
 Email: siwen.zhou@colostate.edu
