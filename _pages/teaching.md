@@ -23,8 +23,8 @@ Graduate Teaching Assistant
 * AREC-ECON 335. Introduction to Econometrics, Fall 2018 
 * AREC-ECON 310. Agricultural Marketing, Fall 2022 & 2023
 * AREC-ECON 535. Applied Econometrics, Spring 2019
-* AREC-ECON 735. Econometric Theory II, fall 2019
-* AREC-ECON 736B. Advanced Econometric Methods: Panel Data Models, fall 2019
+* AREC-ECON 735. Econometric Theory II, Fall 2019
+* AREC-ECON 736B. Advanced Econometric Methods: Panel Data Models, Fall 2019
 
 Guest Lecturer
 ----
