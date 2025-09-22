@@ -10,9 +10,7 @@ Working Papers
 **Siwen Zhou**, Joshua P. Berning, Alessandro Bonanno, and Jude Bayham (2024).  
 **[Food Insecurity and Unemployment Amongst Immigrants in the United States](https://github.com/Siwen0625/Siwen0625.github.io/blob/master/files/Paper1_ur_FI.pdf)**  
 *American Journal of Agricultural Economics* (Revise & Resubmit)  
-
-*Note:* This is the original submitted version.  
-A more recent revised draft is available upon request — please **[contact me](siwen.zhou@colostate.edu)** for the latest version.
+*Note:* This is the pre-peer-review version. A more recent revised draft is available upon request — please **[contact me](siwen.zhou@colostate.edu)** for the latest version.
 
 Immigrants can be more vulnerable to economic downturns and, during those periods, more likely to experience food insecurity (FI) than natives. This study examines the effect of the unemployment rate (UR) on the likelihood of being food insecure among diverse groups of immigrant households relative to natives in the U.S. Since unemployment is not randomly determined for households, we create a Bartik instrument by exploiting exogenous spatial variation in industry employment shares interacted with national industry growth rates. Overall, we find a procyclical effect of the UR on household FI. The effect for immigrants is approximately twice as large as compared to natives. Immigrant noncitizens, particularly those from countries with constrained human capital or those who faced adverse economic conditions upon arrival, grapple with heightened FI challenges. The heterogeneity noted across subsamples underscores poverty level and engagement in food assistance programs as potential buffers against FI during economic recessions. Higher education, especially graduate degrees, partially mitigates the impact of unemployment on FI, particularly for US immigrant noncitizens. This analysis sheds light on the differential resilience of groups of immigrants in the U.S. facing economic fluctuations. It further underscores the pressing need to identify and support those at-risk immigrant cohorts that are most vulnerable to short-term economic disruptions.
 
